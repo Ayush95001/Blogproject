@@ -1,0 +1,51 @@
+[
+    {
+        "id":1,
+        "title":"How to Edit Like a Pro",
+        "description":"Description for Blog 1",
+        "thumbnail": "./Images/Image1.jpg"
+    },
+    {
+        "id":2,
+        "title":"How to Train Your Abs",
+        "description":"Description for Blog 2",
+        "thumbnail": "./Images/Image2.jpg"
+
+    },
+    {
+        "id":3,
+        "title":"Dubai High-end Hotels",
+        "description":"Description for Blog 3",
+        "thumbnail": "./Images/Image3.jpg"
+    },
+    {
+        "id":4,
+        "title":"Best Fitness Training",
+        "description":"Description for Blog 4",
+        "thumbnail": "./Images/Image4.jpg"
+    },
+    {
+        "id":5,
+        "title":"Yoga for Mental Benifits ",
+        "description":"Description for Blog 5",
+        "thumbnail": "./Images/Image5.jpg"
+    },
+    {
+        "id":6,
+        "title":"Web Developer Course",
+        "description":"Description for Blog 6",
+        "thumbnail": "./Images/Image6.jpg"
+    },
+    {
+        "id":7,
+        "title":"How to Make Money Online?",
+        "description":"Description for Blog 7",
+        "thumbnail": "./Images/Image7.jpg"
+    },
+    {
+        "id":8,
+        "title":"Increase Sales in Just 1 Week",
+        "description":"Description for Blog 8",
+        "thumbnail": "./Images/Image8.jpg"
+    }
+]
